@@ -19,7 +19,9 @@ public class Main {
 		} catch(Exception e) {
 			e.printStackTrace();
 		}
-		
+		// definir la estructura a seguir en el proyecto (arquitectura)
+		//    Por ahora parece ser Page Object Model.
+		// datos no hardcodearlos, leerlo de algun archivo (json, excel)
 		ElementUtil.addToElement(driver, EnumXpaths.INPUT_CURP, "QURC960115HBCJCR07");
 		
 		try {
