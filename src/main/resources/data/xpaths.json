@@ -1,0 +1,12 @@
+{
+    "inpCurp": "//input[@id='curpinput']",
+    "btnSearch": "//button[@id='searchButton']",
+    "inpNombre": "//input[@id='nombre']",
+    "inpPrimerApellido": "//input[@id='primerApellido']",
+    "inpSegundoApellido": "//input[@id='segundoApellido']",
+    "selDiaNac": "//select[@id='diaNacimiento']",
+    "selMesNac": "//select[@id='mesNacimiento']",
+    "inpAnioNac": "//input[@id='selectedYear']",
+    "selSexo": "//select[@id='sexo']",
+    "selEstado": "//select[@id='claveEntidad']"
+}

@@ -1,0 +1,20 @@
+[
+    {
+		"nombre":"Jose Carlos", 
+		"primerApellido":"Quijada", 
+		"segundoApellido":"Rocha", 
+		"fechaNacimiento":"15-01-1996", 
+		"sexo":"H", 
+		"estado":"BC", 
+		"curp":"QURC960115HBCJCR07" 
+    },
+    {
+		"nombre":"Jose Carlos", 
+		"primerApellido":"Quijada", 
+		"segundoApellido":"Rocha", 
+		"fechaNacimiento":"15-01-1996", 
+		"sexo":"H", 
+		"estado":"BC", 
+		"curp":"QURC960115HBCJCR07" 
+    }
+]
